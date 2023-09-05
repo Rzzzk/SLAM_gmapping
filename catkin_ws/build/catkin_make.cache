@@ -1,0 +1,2 @@
+car_pkg
+-DCATKIN_DEVEL_PREFIX=/home/rezk/ROS_workspacws/robot_car/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rezk/ROS_workspacws/robot_car/catkin_ws/install -G Unix Makefiles
