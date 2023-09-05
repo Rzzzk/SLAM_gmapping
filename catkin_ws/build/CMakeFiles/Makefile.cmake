@@ -81,6 +81,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/opt/ros/noetic/share/class_loader/cmake/class_loaderConfig.cmake"
   "/opt/ros/noetic/share/cpp_common/cmake/cpp_commonConfig-version.cmake"
   "/opt/ros/noetic/share/cpp_common/cmake/cpp_commonConfig.cmake"
+  "/opt/ros/noetic/share/gmapping/cmake/gmappingConfig-version.cmake"
+  "/opt/ros/noetic/share/gmapping/cmake/gmappingConfig.cmake"
   "/opt/ros/noetic/share/message_runtime/cmake/message_runtimeConfig-version.cmake"
   "/opt/ros/noetic/share/message_runtime/cmake/message_runtimeConfig.cmake"
   "/opt/ros/noetic/share/pluginlib/cmake/pluginlibConfig-version.cmake"
